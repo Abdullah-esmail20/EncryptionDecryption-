@@ -63,9 +63,13 @@ Orijinal metni sonuç alanında gör.
  ## SHA-256 (Secure Hash Algorithm 256-bit)
 SHA-256, kriptografik hash fonksiyonudur ve veri bütünlüğünü sağlamak için kullanılır.
 Metin veya dosya için SHA256 hash değeri üretme.
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+![image-6](https://github.com/user-attachments/assets/827192a7-d301-45a4-8135-02ad4d1dfe71)
+
+![image-7](https://github.com/user-attachments/assets/ed72ec52-6aaf-4e6c-a523-e124579fa31c)
+
+![image-8](https://github.com/user-attachments/assets/b25460d9-2270-4f3b-afee-960e1d971bf7)
+
+
 Çalışma Yöntemi:
 Giriş yöntemini seç (metin veya dosya).
 Metin gir veya dosya seç.
