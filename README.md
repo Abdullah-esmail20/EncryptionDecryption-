@@ -3,10 +3,9 @@ Kriptoloji Web Uygulaması
 Bu proje, modern kriptografi algoritmalarını kullanarak güvenli veri şifreleme ve şifre çözme işlemlerini gerçekleştiren bir web uygulamasıdır.  RSA ve SHA-256 gibi güçlü kriptografi algoritmalarını kullanarak verilerinizi güvenli bir şekilde korumanızı sağlar.
 
 🛡️ Kullanılan Kriptografi Algoritmaları.
-![image-1](https://github.com/user-attachments/assets/9d699973-78f0-40b2-8ddc-38b7785988fa)
+![image](https://github.com/user-attachments/assets/343eb694-9adf-4b17-8273-46e4b1c81bfb)
+![image](https://github.com/user-attachments/assets/4071a542-d7d8-430d-a3c7-2c2d0f05b90e)
 
-![alt text](image.png)
-![alt text](image-9.png)
 ## Projenin Yapıldığı Diller ve Teknolojiler Temel Teknolojiler:
 
 HTML5: Sayfa yapısı
@@ -30,8 +29,9 @@ RSA Anahtarları Üretme
 
 ## (Rivest–Shamir–Adleman) Asymmetric Encryption.
 RSA, asimetrik şifreleme algoritmasıdır ve açık anahtar kriptografisinin temelini oluşturur.
-![alt text](image-1.png)
-![alt text](image-3.png)
+![image-1](https://github.com/user-attachments/assets/6febe644-1928-4323-88c9-a9170cfe11f1)
+![image-3](https://github.com/user-attachments/assets/1455551b-7445-43cf-baa3-a364ac99e3d5)
+
 RSA Şifreleme Arayüzü
 İşlev:
 ## RSA algoritması ile genel anahtar kullanarak metin şifreleme.
@@ -44,9 +44,12 @@ Genel anahtarı gir (anahtar üretme bölümünden alınabilir).
 Şifrelenmiş metni sonuç alanından kopyala.
 
 ## (Rivest–Shamir–Adleman) Decryption with RSA.
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-10.png)
+![image-4](https://github.com/user-attachments/assets/70d5cf0d-9af6-4c61-849e-21449f2ee7b8)
+
+![image-5](https://github.com/user-attachments/assets/ede567b0-a35f-41a3-a0fb-d0af22944882)
+
+![image-10](https://github.com/user-attachments/assets/12069a98-6c40-490c-a810-991f8b63a730)
+
  RSA Şifre Çözme Arayüzü
 İşlev:
 ## RSA ile şifrelenmiş metinleri özel anahtarla çözme
